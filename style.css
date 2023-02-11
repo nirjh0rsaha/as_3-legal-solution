@@ -1,0 +1,55 @@
+/* google font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.cs-button{
+    background-color: #B68C5A;
+}
+
+.bg-image{
+    width: 75%;
+    height: 80vh;
+    background-repeat: no-repeat;
+    margin: auto;
+    display: block;
+    /* justify-content: center;
+    align-items: center; */
+}
+
+.cus-icon{
+    color: #B68C5A;
+}
+
+.cs-box{
+    background-color: #E7E7E7;
+}
+
+
+.carousel-item {
+    height: 500px;
+}
+
+.carousel-item img {
+    position: absolute;
+    object-fit: cover;
+    top: 0;
+    left: 0;
+}
+/* .carousel-item h1{
+    z-index: 1;
+    position: relative;
+    color: #E7E7E7;
+} */
+
+.footer-sec{
+    height: 60vh;
+}
+.text{
+    color: white;
+}
+.cs-logo{
+    color: white;
+}
